@@ -13,4 +13,8 @@ make one anyway so we can all work through the problem.
 
 If you have a better method of making these images, make a pull request.
 
+If you know how to set up an automated build on Docker Hub so that
+pushes to this repo trigger new builds, and that's something important
+to you, I'd love to pair with you for a half hour to set it up.
+
 [uty0]: http://forum.unity3d.com/threads/unity-on-linux-release-notes-and-known-issues.350256/
