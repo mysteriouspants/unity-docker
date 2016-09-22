@@ -7,7 +7,8 @@ Puts the Unity3D editor on Ubuntu Linux in a Docker image, suitable for
 
 Versions on Docker Hub:
 
-* [5.4.1f1][541f1]
+* [5.4.1f1][541f1] (about 6gb compressed, so if you have a means of
+  locally caching the image on your CI/build server, I suggest you do so).
 
 If you need another version of Unity, check that a Linux version exists
 on the [Unity3D forums][uty0], then copy the nearest version directory
